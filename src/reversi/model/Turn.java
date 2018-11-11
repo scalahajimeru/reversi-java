@@ -1,6 +1,6 @@
 package reversi.model;
 
 public enum Turn {
-	BLACK,
-	WHITE
+    BLACK,
+    WHITE
 }
